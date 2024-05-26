@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://zaki-profile-new-portfolio.vercel.app//"
+                href="https://zaki-profile-new-portfolio.vercel.app"
                 target="_blank"
                 rel="noreferrer"
               >
